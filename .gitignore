@@ -1,0 +1,30 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compilados Java
+*.class
+out/
+target/
+build/
+
+# Logs
+*.log
+
+# Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# NetBeans
+nbproject/private/
+dist/
+build/
+
+# Eclipse
+.settings/
+.classpath
+.project
+bin/
